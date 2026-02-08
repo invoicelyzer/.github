@@ -20,10 +20,10 @@ Digitalizar la economía diaria de las familias a través de los tickets de comp
 
 | Proyecto | Plataforma | Descripción |
 |----------|------------|-------------|
-| **🍎 iOS App** | SwiftUI + Supabase | Aplicación nativa para capturar, visualizar y analizar facturas. |
-| **🤖 Android App** | Kotlin + Supabase | Aplicación nativa para capturar, visualizar y analizar facturas. |
+| **🍎 iOS App** | SwiftUI + Firebase | Aplicación nativa para capturar, visualizar y analizar facturas. |
+| **🤖 Android App** | Kotlin + Firebase | Aplicación nativa para capturar, visualizar y analizar facturas. |
 | **🌐 Web App** | Angular | Interfaz administrativa y resumen de datos del usuario. |
-| **⚙️ Backend** | Supabase + GitHub Actions + Workers | Procesamiento OCR, análisis con IA, funciones serverless. |
+| **⚙️ Backend** | Firebase + GitHub Actions + Workers | Procesamiento OCR, análisis con IA, funciones serverless. |
 | **✨ AI Services** | OpenAI + Geminis + Claude | Generación de informes, conversaciones con contexto y análisis de hábitos de consumo. |
 
 ---
@@ -52,7 +52,7 @@ Algunos equipos definidos:
 - `Web Platform` – Plataforma web de administración y visualización
 - `Android` – App nativa para todos los dispositivos
 - `Core` – Workers, procesamiento OCR y pipeline de IA
-- `Backend` – Supabase, funciones, APIs y almacenamiento
+- `Backend` – Firebase, funciones, APIs y almacenamiento
 
 ### 📌 Ejemplos de tareas por trimestre
 
